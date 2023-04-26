@@ -1,0 +1,20 @@
+component Eva_UnityEngine__char_46_Animator_6841290336632632459
+  Jump Bool [bits "1"]
+  Grounded Bool [bits "1"]
+  FreeFall Bool [bits "1"]
+  Speed Float [compression "None"]
+  MotionSpeed Float [compression "None"]
+
+archetype Eva_a4015406731486f4694c40c0ee0848a3
+  lod 0
+    WorldPosition 
+      value [compression "None"]
+    WorldOrientation 
+      value [bits "32"]
+    Eva_UnityEngine__char_46_Animator_6841290336632632459 
+      number [bits "1"]
+      number [bits "1"]
+      number [bits "1"]
+      number [compression "None"]
+      number [compression "None"]
+
